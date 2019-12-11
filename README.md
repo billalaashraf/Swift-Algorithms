@@ -1,2 +1,2 @@
-# Swift-Patterns
-A simple repository to demonstrate common design patterns using swift. 
+# Swift-Algorithms
+A simple repository to demonstrate common algorithms and design patterns using swift. 
